@@ -22,7 +22,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "playground"
+name = "gpgraph"
 version = "0.1.0"
 dependencies = [
  "autoincrement",
